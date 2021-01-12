@@ -1,0 +1,4 @@
+include ':FORTSDKv1.8'
+include ':sdk-payfort'
+include ':app'
+rootProject.name = "lib-payfort"
